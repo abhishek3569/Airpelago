@@ -10,3 +10,5 @@ Tachyons
 
 ## The Source code is in public/Index.html (Which includes the Javascript and CSS code as well)
 
+ I am working on a searchbar to input coordinates
+
